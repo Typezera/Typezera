@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Olá! Meu nome é Willian Bardela ✋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Typezera&show_icons=true&theme=dark)
