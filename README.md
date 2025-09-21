@@ -18,15 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="36" alt="ASP.NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="36" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
-  <!-- Next.js branco para aparecer em fundo escuro -->
+  <img src="https://cdn.simpleicons.org/dotnet/FFFFFF" height="36" alt="ASP.NET" />
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="36" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/nestjs/FFFFFF" height="36" alt="NestJS" />
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" height="36" alt="React" />
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="36" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="36" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/linux/FFFFFF" height="36" alt="Linux" />
 
 </p>
 
