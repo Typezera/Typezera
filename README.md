@@ -15,17 +15,17 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/java/FFFFFF" height="36" alt="Java" />
+  <img src="https://cdn.simpleicons.org/spring/FFFFFF" height="36" alt="Spring" />
+  <img src="https://cdn.simpleicons.org/csharp/FFFFFF" height="36" alt="C#" />
+  <img src="https://cdn.simpleicons.org/dotnet/FFFFFF" height="36" alt="ASP.NET" />
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="36" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/nestjs/FFFFFF" height="36" alt="NestJS" />
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" height="36" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="36" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="36" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/linux/FFFFFF" height="36" alt="Linux" />
 </p>
 
 ---
