@@ -4,8 +4,8 @@
   Desenvolvedor <b>Full-Stack</b> focado em <b>TypeScript + NestJS + NextJS + TailWind</b>.<br/>
   Banco de dados com <b>PostgreSQL</b> e <b>MySQL</b>. Linux user 🐧
 </p>
----
-### 📚 Cursando Analise e Desenvolvimento de Sistemas
+
+### 📚 Análise e Desenvolvimento de Sistemas
 
 ### 🧠 Estudando agora
 - TypeScript • NestJS • ReactJS • Next.js
