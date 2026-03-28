@@ -9,20 +9,15 @@
 ### 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 ### 🧠 Estudando agora
-- TypeScript • NestJS • ReactJS • Next.js
+• TypeScript • Spring • ReactJS 
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" />
-  <img src="https://cdn.simpleicons.org/dotnet/FFFFFF" height="36" alt="ASP.NET" />
+  <img src="https://cdn.simpleicons.org/spring/ffff" height="36" alt="Spring" />
   <img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="36" alt="TypeScript" />
-  <img <img src="https://cdn.simpleicons.org/nestjs/FFFFFF" height="36" alt="NestJS" />
   <img src="https://cdn.simpleicons.org/react/FFFFFF" height="36" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="36" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" height="36" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="36" alt="MySQL" />
   <img src="https://cdn.simpleicons.org/linux/FFFFFF" height="36" alt="Linux" />
