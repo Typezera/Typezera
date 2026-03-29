@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Willian Bardela 👋</h1>
 
 <p align="center">
-  Desenvolvedor <b>Full-Stack</b> focado em <b>TypeScript + NestJS + NextJS + TailWind</b>.<br/>
+  Desenvolvedor <b>Full-Stack</b> focado em <b> Spring + ReactJS + JavaScript + TailWind</b>.<br/>
   <br/>
   Banco de dados com <b>PostgreSQL</b> e <b>MySQL</b>. Linux user 🐧
 </p>
