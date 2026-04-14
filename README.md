@@ -27,9 +27,10 @@
 
 ### 📈 Estatísticas
 <div align="center">
-
   <img height="160" src="https://streak-stats.demolab.com?user=Typezera&theme=tokyonight&hide_border=true" />
-
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Typezera&layout=compact&theme=tokyonight" />
 </div>
 
 <!-- contador de visitas opcional -->
