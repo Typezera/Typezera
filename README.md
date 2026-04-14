@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Willian Bardela 👋</h1>
 
 <p align="center">
-  Desenvolvedor <b>Full-Stack</b> focado em <b> Spring + ReactJS + JavaScript + TailWind</b>.<br/>
+  <b> Desenvolvedor Full-Stack com foco em aplicações escaláveis usando Spring Boot e React.</b><br/>
   <br/>
   Banco de dados com <b>PostgreSQL</b> e <b>MySQL</b>. Linux user 🐧
 </p>
