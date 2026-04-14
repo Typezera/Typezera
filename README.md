@@ -30,6 +30,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Typezera&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://streak-stats.demolab.com?user=Typezera&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Typezera&layout=compact&theme=tokyonight&hide_border=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Typezera&layout=compact)
 </div>
 
 <!-- contador de visitas opcional -->
