@@ -29,7 +29,6 @@
 <div align="center">
 
   <img height="160" src="https://streak-stats.demolab.com?user=Typezera&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Typezera&layout=compact&theme=tokyonight" />
 
 </div>
 
