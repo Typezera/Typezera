@@ -3,7 +3,7 @@
 <p align="center">
   <b> Desenvolvedor Full-Stack com foco em aplicações escaláveis usando Spring Boot e React.</b><br/>
   <br/>
-  Banco de dados com <b>PostgreSQL</b> e <b>MySQL</b>. Linux user 🐧
+  Banco de dados com <b>PostgreSQL</b> e <b>MySQL</b>. <b>Linux</b> user 🐧
 </p>
 
 ### 📚 Cursando Análise e Desenvolvimento de Sistemas
